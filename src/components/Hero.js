@@ -73,7 +73,7 @@ export const Hero = () => {
               Lil Lixo
             </Text>
             <GridItem colSpan={2}>
-              <Text color="#e0d62c">Lorentralha</Text>
+              <Text color="#e0d62c">Loren Tralha</Text>
             </GridItem>
             <GridItem colSpan={2}>
               <Text
