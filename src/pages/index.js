@@ -3,6 +3,7 @@ import { Container } from "../components/Container";
 import { IconButton } from "@chakra-ui/button";
 
 import { FiGithub } from "react-icons/fi";
+import { NextSeo } from "next-seo";
 
 const Index = () => (
   <Container height="100vh">
